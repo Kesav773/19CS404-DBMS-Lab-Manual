@@ -1,4 +1,6 @@
 # Experiment 7: PL/SQL – Variables, Control Structures and Loops
+## NAME: KESAV K M
+## REG NO: 212224110031
 
 ## AIM
 To write and execute simple PL/SQL programs using variables, loops, and conditional statements.
